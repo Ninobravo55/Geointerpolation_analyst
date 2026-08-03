@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/QGIS-Plugin-3.x-589632.svg?logo=qgis&logoColor=white" alt="QGIS Plugin" />
-  <img src="https://img.shields.io/badge/Version-1.0-blue.svg" alt="Version" />
+  <img src="https://img.shields.io/badge/Version-1.0.1-blue.svg" alt="Version" />
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB.svg?logo=python&logoColor=white" alt="Python 3" />
   <img src="https://img.shields.io/badge/License-GPLv3-orange.svg" alt="License" />
   <img src="https://img.shields.io/badge/Autor-GEOMATICA-1081C1.svg" alt="Autor" />
@@ -120,10 +120,11 @@ El plugin requiere las siguientes librerías de Python:
 
 ## 🤝 Soporte y Contacto / Support & Contact
 
+- **Repositorio / Repository**: [GitHub - GeoInterpolation Analyst](https://github.com/Ninobravo55/Geointerpolation_analyst)
 - **Autor / Author**: GEOMATICA
 - **Sitio Web / Homepage**: [geomatica.pe](https://www.geomatica.pe/)
-- **Email**: nino@geomatica.pe
-- **Reporte de Errores / Issues**: [GitHub Issues Tracker](https://github.com/geomatica/geointerpolation_analyst/issues)
+- **Email**: nino@geomatica.pe / support@geomatica.com
+- **Reporte de Errores / Issues**: [GitHub Issues Tracker](https://github.com/Ninobravo55/Geointerpolation_analyst/issues)
 
 ---
 
