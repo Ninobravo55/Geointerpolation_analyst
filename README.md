@@ -122,7 +122,7 @@ El plugin requiere las siguientes librerías de Python:
 
 - **Autor / Author**: GEOMATICA
 - **Sitio Web / Homepage**: [geomatica.pe](https://www.geomatica.pe/)
-- **Email**: support@geomatica.com / nino@geomatica.pe
+- **Email**: nino@geomatica.pe
 - **Reporte de Errores / Issues**: [GitHub Issues Tracker](https://github.com/geomatica/geointerpolation_analyst/issues)
 
 ---
