@@ -1,0 +1,14 @@
+[general]
+name=GeoInterpolation Analyst
+qgisMinimumVersion=3.0
+description=Herramienta de análisis estadístico para datos tabulares, incluyendo medidas de tendencia central, dispersión, posición relativa y forma, con gráficos.
+version=1.0
+author=GEOMATICA
+email=support@geomatica.com
+about=Plugin para análisis exploratorio de datos de suelo (y otros datos tabulares). Genera estadísticas descriptivas y gráficos (histogramas, boxplots).
+tracker=https://github.com/geomatica/geointerpolation_analyst/issues
+repository=https://github.com/geomatica/geointerpolation_analyst
+category=Analysis
+tags=statistics, analysis, soils, data, geomatics
+homepage=https://github.com/geomatica/geointerpolation_analyst
+icon=icon.png
